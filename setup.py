@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='christian_watson_SDK',
-    version="0.1",
+    version="0.3",
     author="Christian Watson",
     author_email="chris23w@gmail.com",
     description="SDK for use with The One API, a Lord of the Rings API",
