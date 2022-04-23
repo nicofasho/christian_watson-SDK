@@ -1,8 +1,5 @@
 from client import LOTRClient
-import requests
-from aiohttp import web
 import pytest
-import aiohttp
 
 
 class MockResponse:
