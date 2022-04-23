@@ -4,7 +4,7 @@ The Lord of the Rings Python SDK enables Python developers an easy way to access
 
 ## Quickstart
 
-`pip install christian_watson-SDK`
+`$ pip install christian_watson-SDK`
 
     from christian_watson-SDK import LOTRClient
 
